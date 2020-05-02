@@ -19,6 +19,11 @@ body {
     text-decoration: none;
   }
 
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
 .footer{
   text-align: center;
   clear: both;
@@ -29,7 +34,9 @@ body {
 
   @media screen and (max-width : 640px){
 
-    #main-content {
-      padding-bottom: 20px;
+    .card {
+      margin-bottom: 20px;
     }
   }
+
+
