@@ -9,10 +9,10 @@ h1{
   text-align: center;
 }
 
-.container{
+/* .container{
 margin-bottom: 20px;
 height: 80vh;
-}
+} */
 
 
 
@@ -41,6 +41,13 @@ body {
     background-color: oldlace;
   }
 
+  .footer{
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  }
 
   /* Styles for links to social media */
     .fa {
