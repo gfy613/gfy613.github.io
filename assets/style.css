@@ -29,7 +29,9 @@ body {
    /* Margin for small screens and pic width */
   @media screen and (max-width : 991px){
     .card {
+      margin-top: 20px;
       margin-bottom: 20px;
+      margin: 10px auto;
     }
     #aboutPic{
       max-width: 200px;
@@ -71,6 +73,11 @@ body {
       color: white;
     }
 
+    .fa-resume {
+      width: 100px;
+      background: #dd4b39;
+      color: white;
+    }
 
     /* Style for Footer of each page -- Will be used later if I dont like the current layout
   .footer{
