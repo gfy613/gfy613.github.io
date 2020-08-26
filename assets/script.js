@@ -1,11 +1,11 @@
 
 
 const codingProjects = [
-    {projectName: "Code Refactor",
-     projectDescription: "Was given a semi-complete HTML and was asked to correct issues invloving syntax and general clean up of code",
-     githubRepo: "https://github.com/gfy613/Homework_1_Code_-Refactor",
-     githubSite: "https://gfy613.github.io/Homework_1_Code_-Refactor/",
-     images: "assets/images/code_refactor.JPG"
+    {projectName: "Employee Tracker",
+     projectDescription: "Tool to create, track and manage employees of a company",
+     githubRepo: "https://github.com/gfy613/employee_tracker",
+     githubSite: "https://drive.google.com/file/d/1hgSpVkxkDOaDNn5JL9D7FhTd-40pyyqN/view",
+     images: "assets/images/employee_tracker.JPG"
     },
     {projectName: "Password Generator",
      projectDescription: "Generates a password between 8-126 characters. User can choose to use upper and lower case letters, numbers, or special characters.",
@@ -36,6 +36,18 @@ const codingProjects = [
      githubRepo: "https://github.com/evandev01/fitness-tracker",
      githubSite: "https://evandev01.github.io/fitness-tracker/",
      images: "assets/images/fitness_tracker.JPG"
+    },
+    {projectName: "Budget Tracker",
+     projectDescription: "Group project where we created a budget app for multiple users. In this project we used heroku, SQL and handebars to create a functioning app. In the app the user can keep track of expenses, budgets, savings and income. The user can also set up bill notifications and see charts of their past expenses",
+     githubRepo: "https://github.com/CallieCrownover/budget_tracker",
+     githubSite: "https://budget-tracker-project.herokuapp.com/",
+     images: "assets/images/budget_Tracker.JPG"
+    },
+    {projectName: "Burger App",
+     projectDescription: "The app uses handlebars and keeps track of the burgers the user has eaten and wants to eat.",
+     githubRepo: "https://github.com/gfy613/express_handlebars_burger",
+     githubSite: "https://stormy-reaches-39077.herokuapp.com/",
+     images: "assets/images/burger_app.JPG"
     }
 ]
 
